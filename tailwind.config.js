@@ -13,10 +13,12 @@ export default {
         sky: '#6ea8fe',
         'sky-light': '#cfe2ff',
         'sky-pale': '#f0f7ff',
+        'logo-gold': '#c9a227',
       },
       fontFamily: {
         sans: ['DM Sans', 'system-ui', 'sans-serif'],
         display: ['Plus Jakarta Sans', 'system-ui', 'sans-serif'],
+        logo: ['Lora', 'Georgia', 'serif'],
       },
       boxShadow: {
         'soft': '0 2px 15px -3px rgb(0 0 0 / 0.07), 0 10px 20px -2px rgb(0 0 0 / 0.04)',
